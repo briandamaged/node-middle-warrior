@@ -1,0 +1,22 @@
+{
+  "name": "middle-warrior",
+  "version": "0.7.0",
+  "description": "Crush your foes with Middleware!",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/briandamaged/node-middle-warrior.git"
+  },
+  "keywords": [
+    "middleware"
+  ],
+  "author": "Brian Lauber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briandamaged/node-middle-warrior/issues"
+  },
+  "homepage": "https://github.com/briandamaged/node-middle-warrior#readme"
+}
