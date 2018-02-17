@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/briandamaged/node-middle-warrior/issues"
   },
-  "homepage": "https://github.com/briandamaged/node-middle-warrior#readme"
+  "homepage": "https://github.com/briandamaged/node-middle-warrior#readme",
+  "dependencies": {
+    "zelda-lists": "^0.8.0"
+  }
 }
